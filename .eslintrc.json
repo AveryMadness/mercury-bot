@@ -1,0 +1,5 @@
+{
+  "extends": "tesseract",
+  "parser": "babel-eslint"
+
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AveryMadnessBOT",
+  "version": "1.0.0",
+  "main": "src/index",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-tesseract": "^0.3.0"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
